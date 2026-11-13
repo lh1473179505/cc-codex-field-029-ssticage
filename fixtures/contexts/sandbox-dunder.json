@@ -1,0 +1,12 @@
+{
+  "user": {
+    "name": "Al<ice",
+    "title": "He said \"hi\"",
+    "__class__": "nope"
+  },
+  "items": [
+    "a",
+    "b"
+  ],
+  "bio_html": "<em>ok</em>"
+}

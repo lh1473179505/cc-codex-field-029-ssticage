@@ -1,0 +1,25 @@
+{
+  "autoescape": true,
+  "allow_raw": true,
+  "trusted_paths": [
+    "bio_html"
+  ],
+  "filters": [
+    "e",
+    "raw",
+    "upper",
+    "lower",
+    "length",
+    "json"
+  ],
+  "blocked_names": [
+    "constructor",
+    "class",
+    "mro",
+    "tb",
+    "func_globals",
+    "gi_frame"
+  ],
+  "undefined": "empty",
+  "max_loop": 100
+}
